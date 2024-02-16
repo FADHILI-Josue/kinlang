@@ -29,7 +29,7 @@ check if you have node installed by running `node -v`.
 read the basic codes and then try to run the programs using command `kin run [path-to-kinfile]` 
 
 ### CONTENTS 📚
- 1. [basics](https://github.com/FADHILI-Josue/kinlang/tree/master/basics)
+ 1. [basics](basics)
     - [data types](/basics/01_data_types.kin)
     - [variables](/basics/02_data_types.kin)
     - [strings](/basics/02_data_types.kin)
@@ -40,11 +40,11 @@ read the basic codes and then try to run the programs using command `kin run [pa
     - [controll statements](/basics/02_data_types.kin)
     - [loops](/basics/02_data_types.kin)
     - [io](/basics/02_data_types.kin)
- 2. [advanced](https://github.com/FADHILI-Josue/kinlang/tree/master/advanced)
+ 2. [advanced](/advanced)
     - [time](/advanced/time.kin)
     - [file handling](/advanced/file_handling.kin)
     - [util built in functions](/advanced/builtin_fns.kin) 
- 3. [programs](https://github.com/FADHILI-Josue/kinlang/tree/master/programs)
+ 3. [programs](/programs)
     - [hello world](/programs/hello_world.kin)
     - [output 10 numbers](/programs/output_10_nbrs.kin)
     - [check prime number](/programs/check_prime_nbr.kin)
@@ -65,6 +65,10 @@ Special thanks to the Author and Maintainer of kinlang [Murangwa Pacifique](http
 
 Thank you for exploring KinLang!
 don't forget to leave a ⭐ to this repo and (https://github.com/kin-lang/kin)[https://github.com/kin-lang/kin]
+
+[![Star on GitHub](https://img.shields.io/github/stars/FADHILI-Josue/kinlang.svg?style=social)](https://github.com/FADHILI-Josue/kinlang/stargazers)
+[![Follow on Twitter](https://img.shields.io/twitter/follow/FADHILIJosue?style=social)](https://twitter.com/FADHILIJosue)
+[![Connect on LinkedIn](https://img.shields.io/badge/connect-linkedin-blue)](https://www.linkedin.com/in/fadhili-josue/)
 
 
 
