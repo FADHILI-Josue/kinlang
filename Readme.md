@@ -17,6 +17,7 @@ git clone https://github.com/FADHILI-Josue/kinlang.git
 check if you have node installed by running `node -v`.
 
 ### setup kinlang 
+
 ```bash
   npm i -g @kin-lang/cli
   # using yarn
@@ -29,6 +30,7 @@ check if you have node installed by running `node -v`.
 read the basic codes and then try to run the programs using command `kin run [path-to-kinfile]` 
 
 ### CONTENTS 📚
+
  1. [basics](basics)
     - [data types](/basics/01_data_types.kin)
     - [variables](/basics/02_data_types.kin)
@@ -54,12 +56,15 @@ read the basic codes and then try to run the programs using command `kin run [pa
 > vscode extension will be ready soon for the IntelliSense, code formating, ...
 
 ### Contributing 🤝
+
 feel free to open an issue or submit a pull request. 🌟 by following the [guide](/CONTRIBUTING.md)
 
 ### License 📝
+
 This repo is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
 
 ### Acknowledgements 🙏
+
 Special thanks to the Author and Maintainer of kinlang [Murangwa Pacifique](https://github.com/pacifiquem).
 
 
