@@ -4,14 +4,20 @@
 # code here can NOT use carName
 porogaramu_ntoya myFunction() {
   reka carName = "Volvo"
+  tangaza_amakuru(carName)
   # code here CAN use carName
 }
 # code here can NOT use carName
 
 
 
-reka carName = "Volvo"
-# code here can use carName
-porogaramu_ntoya myFunction() \{
-# code here can also use carName
+reka name = "john doe"
+
+# code here can use name
+
+porogaramu_ntoya getName() {
+# code here can also use name
+tangaza_amakuru(name)
 }
+
+getName()

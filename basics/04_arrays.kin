@@ -1,4 +1,4 @@
-------- ARRAYS -------
+# ------- ARRAYS -------
 
 reka list = [1+4] # Array can contain expressions
 tangaza_amakuru(list[0]) # will print 5

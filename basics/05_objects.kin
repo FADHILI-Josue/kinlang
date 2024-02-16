@@ -1,4 +1,4 @@
------ OBJECTS ----------
+# ----- OBJECTS ----------
 
 porogaramu_ntoya add (a, b) {
     tanga a + b

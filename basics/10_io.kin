@@ -5,4 +5,4 @@ reka input = injiza_amakuru("Write something : ") # Input
 tangaza_amakuru(input) # Output
 
 # This will also work
-tangaza_amakuru(injiza_amakuru("Write something : "))
+tangaza_amakuru(injiza_amakuru("Write something second way : "))

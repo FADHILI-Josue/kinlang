@@ -1,6 +1,9 @@
 # ------- STRINGS -------
+
+# NB: some of the string methods have issues which are being fixed but the syntax is the same
+
 daclaring a string variable
-reka x  = "Hello World"
+reka x = "Hello World"
 
 # STRING METHODS
 # kinlang have KIN_AMAGAMBO used for string methods
@@ -19,8 +22,8 @@ reka ijambo = "Hello World"
 
 # Splitting String
 
-reka ijambo = "Hello World"
-reka hello = KIN_AMAGAMBO.tandukanya(ijambo, " ")
+reka ijambo1 = "Hello World"
+reka hello = KIN_AMAGAMBO.tandukanya(ijambo1, " ")
 tangaza_amakuru(hello[0])
 
 # Upper Case and Lower Case
