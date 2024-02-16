@@ -64,7 +64,8 @@ Special thanks to the Author and Maintainer of kinlang [Murangwa Pacifique](http
 
 
 Thank you for exploring KinLang!
-don't forget to leave a ⭐ to this repo and (https://github.com/kin-lang/kin)[https://github.com/kin-lang/kin]
+don't forget to leave a ⭐ to this repo and [https://github.com/kin-lang/kin](https://github.com/kin-lang/kin)
+
 
 [![Star on GitHub](https://img.shields.io/github/stars/FADHILI-Josue/kinlang.svg?style=social)](https://github.com/FADHILI-Josue/kinlang/stargazers)
 [![Follow on Twitter](https://img.shields.io/twitter/follow/FADHILIJosue?style=social)](https://twitter.com/FADHILIJosue)
