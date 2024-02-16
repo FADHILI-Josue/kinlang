@@ -25,7 +25,7 @@ check if you have node installed by running `node -v`.
   # using pnpm
   pnpm add -g @kin-lang/cli
 ```
-> check if kin cli is installed run `kin --version`
+> check if kin cli is installed by running `kin --version`
 
 read the basic codes and then try to run the programs using command `kin run [path-to-kinfile]` 
 
