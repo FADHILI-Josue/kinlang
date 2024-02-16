@@ -1,0 +1,27 @@
+# ------- STRINGS -------
+daclaring a string variable
+reka x  = "Hello World"
+
+# STRING METHODS
+# kinlang have KIN_AMAGAMBO used for string methods
+
+# String concationation
+
+reka x = "Hello "
+reka y = "World"
+reka z = KIN_AMAGAMBO.huza(x, y)
+tangaza_amakuru(z)
+
+# String Length
+
+reka ijambo = "Hello World"
+# tangaza_amakuru(KIN_AMAGAMBO.ingano(ijambo))
+
+# Splitting String
+
+reka ijambo = "Hello World"
+reka hello = KIN_AMAGAMBO.tandukanya(ijambo, " ")
+tangaza_amakuru(hello[0])
+
+# Upper Case and Lower Case
+

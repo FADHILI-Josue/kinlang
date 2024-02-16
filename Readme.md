@@ -29,8 +29,25 @@ check if you have node installed by running `node -v`.
 read the basic codes and then try to run the programs using command `kin run path-to-kinfile` 
 
 ### table of contents 📚
-1 [basics](https://github.com/FADHILI-)
-    - []()
+ 1. [basics](https://github.com/FADHILI-Josue/kinlang/tree/master/basics)
+    - [data types](https://github.com/FADHILI-Josue/kinlang/blob/master/basics/01_data_types.kin)
+    - [variables](https://github.com/FADHILI-Josue/kinlang/blob/master/basics/02_data_types.kin)
+    - [strings](https://github.com/FADHILI-Josue/kinlang/blob/master/basics/02_data_types.kin)
+    - [arrays](https://github.com/FADHILI-Josue/kinlang/blob/master/basics/02_data_types.kin)
+    - [objects](https://github.com/FADHILI-Josue/kinlang/blob/master/basics/02_data_types.kin)
+    - [functions](https://github.com/FADHILI-Josue/kinlang/blob/master/basics/02_data_types.kin)
+    - [scopes](https://github.com/FADHILI-Josue/kinlang/blob/master/basics/02_data_types.kin)
+    - [controll statements](https://github.com/FADHILI-Josue/kinlang/blob/master/basics/02_data_types.kin)
+    - [loops](https://github.com/FADHILI-Josue/kinlang/blob/master/basics/02_data_types.kin)
+    - [io](https://github.com/FADHILI-Josue/kinlang/blob/master/basics/02_data_types.kin)
+ 2. [advanced](https://github.com/FADHILI-Josue/kinlang/tree/master/advanced)
+    - [time](https://github.com/FADHILI-Josue/kinlang/blob/master/advanced/time.kin)
+    - [file handling](https://github.com/FADHILI-Josue/kinlang/blob/master/advanced/file_handling.kin)
+    - [util built in functions](https://github.com/FADHILI-Josue/kinlang/blob/master/advanced/builtin_fns.kin) 
+ 3. [programs](https://github.com/FADHILI-Josue/kinlang/tree/master/programs)
+    - [hello world](https://github.com/FADHILI-Josue/kinlang/blob/master/programs/hello_world.kin)
+    - [output 10 numbers](https://github.com/FADHILI-Josue/kinlang/blob/master/programs/output_10_nbrs.kin)
+    - [check prime number](https://github.com/FADHILI-Josue/kinlang/blob/master/programs/check_prime_nbr.kin)
 
 
 > [!IMPORTANT]

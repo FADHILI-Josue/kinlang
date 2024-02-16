@@ -1,0 +1,21 @@
+# ---- LOOPS --------
+
+# basic loop
+reka x = 1
+subiramo_niba(x<=10) {
+    tangaza_amakuru(x)
+    x = x + 1
+}
+
+# nested loops
+reka i = 1
+subiramo_niba(i<=10) {
+    tangaza_amakuru(i)
+    reka j = 1
+    subiramo_niba(j<=5) {
+        tangaza_amakuru("nested:", j)
+        j = j + 1
+    }
+
+    i = i + 1
+}

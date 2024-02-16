@@ -3,18 +3,20 @@
 # kinlang is dynamically typed language 
 
 
-
-
 # Numbers:
 reka length = 16
 reka weight = 7.5
+
 # Strings:
 reka color = "Yellow"
 reka lastName = "Johnson"
+
 # Booleans
 reka x = nibyo
 reka y = sibyo
+
 # Object:
 ntahinduka person = {firstName:"John", lastName:"Doe"}
+
 # Array object:
 ntahinduka cars = ["Saab", "Volvo", "BMW"]

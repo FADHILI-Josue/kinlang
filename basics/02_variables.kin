@@ -1,3 +1,4 @@
+# ---- VARIABLES --------
 # By declaring variables by using reka keyword, you can change the value of the variable later in the program.
 
 reka x = value

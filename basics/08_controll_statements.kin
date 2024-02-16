@@ -1,3 +1,6 @@
+# ---- CONTROLL STATEMENTS --------
+
+
 reka grade = 90
 
 niba (grade >= 90) {

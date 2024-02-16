@@ -1,4 +1,6 @@
+# ---- FUNCTIONS --------
 # function that doesn't return anything
+
 porogaramu_ntoya printTime() {
     tangaza_amakuru(KIN_IGIHE.isaha())
 }
