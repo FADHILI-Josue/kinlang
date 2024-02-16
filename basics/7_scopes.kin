@@ -1,0 +1,17 @@
+# ---- SCOPES ---------
+# scopes are used to defined where a variable can be accessed
+
+# code here can NOT use carName
+porogaramu_ntoya myFunction() {
+  reka carName = "Volvo"
+  # code here CAN use carName
+}
+# code here can NOT use carName
+
+
+
+reka carName = "Volvo"
+# code here can use carName
+porogaramu_ntoya myFunction() \{
+# code here can also use carName
+}

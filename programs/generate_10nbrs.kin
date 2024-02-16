@@ -1,0 +1,11 @@
+# small program to output 10 numbers
+porogaramu_ntoya tangaImibareIcumi() {
+    reka x = 0
+    # while loop to out put ten numbers
+    subiramo_niba (x < 10) {
+        x = x + 1
+        tangaza_amakuru(x)
+    }
+}
+
+tangaImibareIcumi()

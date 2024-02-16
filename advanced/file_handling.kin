@@ -1,0 +1,24 @@
+# ------ FILE HANDLING ---------
+# file handling in kinlang is built in. With Kin you can easity read, write, append, and delete files.
+# this is handled by KIN_INYANDIKO.
+
+# Reading Files
+reka file_content = KIN_INYANDIKO.soma("./files/support.txt")
+tangaza_amakuru("the value read from the support.txt file")
+tangaza_amakuru(file_content)
+
+# Writing Files
+
+reka written = KIN_INYANDIKO.andika("./files/my_file.txt", injiza_amakuru("Enter the content to write to the file: "))
+# put the path of the file and second argument as the content
+niba (written) {
+  tangaza_amakuru("Content was written to the file")
+} niba_byanze {
+  tangaza_amakuru("Failed to write content to a file at ", path-to-file)
+}
+
+
+# Deleting files
+
+KIN_INYANDIKO.siba("./files/my_file.txt") # put the path to the existing file
+

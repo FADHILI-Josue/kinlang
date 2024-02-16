@@ -1,0 +1,6 @@
+# the built-in util functions for kinlang
+
+reka x = 5
+tangaza_amakuru(ubwoko(x)) # ubwoko returns the type of provided argument
+
+sisitemu("sudo shutdown now") # This method is used to run systems commands from Kin program.

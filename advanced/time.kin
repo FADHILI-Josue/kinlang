@@ -1,0 +1,6 @@
+# ----- TIME --------
+# kinlang have built in time functions
+
+tangaza_amakuru("turi saa (current time is): ",KIN_IGIHE.isaha()) #  Returns current time in format (HH:MM:SS)
+tangaza_amakuru("current day is: ",KIN_IGIHE.umunsi()) #  Returns the current day, ex: Monday, Tuesday ...
+tangaza_amakuru("turi tariki (current date is): ",KIN_IGIHE.itariki())#  Returns the current date in format (YYYY-MM-DD)

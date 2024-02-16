@@ -1,0 +1,12 @@
+# By declaring variables by using reka keyword, you can change the value of the variable later in the program.
+
+reka x = value
+
+# declaring a variable without assigning a value to it.
+reka x;
+
+# creating a variable which doesn't change, you can't assign new value
+# use keyword ntahinduka
+
+ntahinduka y = 10
+ntahinduka x; # This will throw an error
