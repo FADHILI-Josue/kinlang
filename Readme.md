@@ -53,7 +53,7 @@ read the basic codes and then try to run the programs using command `kin run [pa
 
 
 > [!IMPORTANT]
-> vscode extension will be ready soon for the IntelliSense, code formating, ...
+> install [vscode extension](https://marketplace.visualstudio.com/items?itemName=pacifiquem.kinlang) for IntelliSense, code formating, ...
 
 ### Contributing 🤝
 
